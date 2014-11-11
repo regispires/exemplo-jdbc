@@ -20,13 +20,11 @@ Importar o projeto para o Eclipse
 Criar o esquema relacional no PostgreSQL
 ----------------------------------------
 ```sql
-create database contatos;
+create database trabalho1;
 
-create table clientes (
-  id serial primary key,
-  cpf varchar(11),
+create table cliente (
+  id int primary key,
   nome varchar(50),
-  fone varchar(11),
-  renda decimal(10,2)
+  idade int
 );
 ```
