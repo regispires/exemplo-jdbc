@@ -4,7 +4,7 @@ Exemplo de aplicação JDBC simples
 
 Download
 --------
-Através do botão "Download ZIP" ou através de um comando "git clone https://github.com/regispires/exemplo-dao-jdbc.git"
+Através do botão "Download ZIP" ou através de um comando ```git clone https://github.com/regispires/exemplo-dao-jdbc.git```
 O 'git clone' pode ser realizado diretamente através do Eclipse:
 - Mudar para a perspectiva para "Git Repository Exploring".
 - Clicar no botão Clone Git repository.
